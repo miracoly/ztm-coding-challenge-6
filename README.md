@@ -1,5 +1,7 @@
 # ztm-coding-challenge-6
 
+** Original Challenge: ** [zero-to-mastery/coding_challenge-6](https://github.com/zero-to-mastery/Coding_Challenge-6) by [Andrei Neagoie](https://github.com/aneagoie)
+
 ## What is the Challenge?
 
 Solve the below 3 javascript puzzles. The goal of this challenge is to practice our logic skills. Something that is useful not only in interviews when you get challenging problems, but also in your day to day work as a developer. First, start off by reading this article: https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2
